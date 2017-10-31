@@ -1,0 +1,37 @@
+#    CRADLE Export Format File
+#    Confidential and Proprietary. Copyright (C) 1988-2017
+#    Structured Software Systems Limited
+
+FILETYPE    = Standard
+ENCODING    = 
+DEFINEDBY   = Options
+QUERYNAME   = 
+QUERYLOC    = UNKNOWN
+INFOTYPE    = All
+SUBTYPE     = 
+STEREOTYPE  = 
+MODEL_VIEW  = 
+DOMAIN      = All
+NAMESPACE_START
+NAMESPACE_END
+OWNER       = OWNER_SELECT_USER
+OWNER_NAME  = 
+INSTANCE    = INSTANCE_SELECT_ANY
+SCOPE       = Items
+FROMDATE    = 
+TODATE      = 
+IDENTITY    = 
+CATEGORY    = 
+UIDMIN      = 0
+UIDMAX      = 0
+FRAMES      = 
+DELETESTATE = NORMAL
+SANITISEDATA = NO
+FILENAME    = 
+CSVSEPARATOR  = CSV_SEPARATOR_COMMA
+CSVNEWLINE  = LF
+CSVBREAK    = Newline
+CSVQUOTES   = Repeat
+DELIMALLFLD = no
+CSVTYPE     = INFO_NULL
+CSVSUBTYPE  =
