@@ -1,4 +1,1 @@
-"# NRDC"
-Changes in branch Initial
-DG ghfghf
-fhfghf fgfdg
+Проект 3SL Cradle для учёта нормативно-распорядительных документов
